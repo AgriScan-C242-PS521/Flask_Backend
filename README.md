@@ -135,5 +135,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 🤝 Contributions
 
 Feel free to fork this repository, open issues, or submit pull requests to improve the project.
-
----
